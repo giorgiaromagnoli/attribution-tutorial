@@ -1,0 +1,8 @@
+libzmq3-dev
+libsodium-dev
+libcurl4-openssl-dev
+libssl-dev
+libxml2-dev
+libgit2-dev
+libgsl-dev
+libgsl27
